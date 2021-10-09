@@ -1,0 +1,51 @@
+I",<h3 id="1">¿MOREL?</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;p&gt;
+      &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; es una plataforma cooperativa para facilitar el acceso, circulación, posicionamiento y enlace de productos culturales latinoamericanos en la Web. Su primera aplicación, &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt;, se ocupa de reunir, organizar y promocionar archivos descargables gratuitos con obras de la cultura escrita venezolana libres de derechos de autor.
+    &lt;/p&gt;
+    &lt;h3 id="2"&gt;literaturavenezolana.info&lt;/h3&gt;
+    &lt;p&gt;
+      En su primera aplicación,  &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; revisita la pregunta que se ha hecho y se hace crónicamente la crítica, con distintas variables de disimulo o complejización: ¿por qué la literatura venezolana no es más universal? Y elige una respuesta no menos crónica y reversionada: porque no se ha leído suficiente.
+    &lt;/p&gt;
+
+    &lt;p&gt;En &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt;,  &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; pone el foco en los aspectos que según su diagnóstico no han sido tan atendidos hasta ahora, por iniciativas anteriores para la migración de la tradición escrita latinoamericana al universo de los metadatos: la organización del repertorio disponible de obras de dominio público en series dinámicas e interactivas, y su puesta a disposición en formatos actualizados.&lt;/p&gt;
+
+    &lt;h3 id="3"&gt;Series dinámicas e interactivas&lt;/h3&gt;
+
+    &lt;p&gt;Un gestor de contenidos basado en bases de datos como Drupal permite la relación dinámica entre múltiples series de sentido: temporales, semánticas, autorales, editoriales y geográficas, entre otras.  &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; se propone ofrecer una experiencia de usuario similar a las de &lt;a class="morel" href="https://www.imdb.com/" target="_blank"&gt;Internet Movie Database&lt;/a&gt; o &lt;a class="morel" href="https://www.discogs.com/" target="_blank"&gt;Discogs&lt;/a&gt;, en un servicio para hacer descargas gratuitas de obras latinoamericanas de dominio público (comenzando con la tradición escrita venezolana en &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt;). &lt;/p&gt;
+
+    &lt;p&gt;En &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt;, los listados automáticos por año, por editorial, por autor y por país (entre otros), irán creciendo a partir de la colección inicial, con al menos una nueva obra descargable que se incorporará cada día laborable (en el calendario venezolano) del año.&lt;/p&gt;
+
+    
+    &lt;h3 id="4"&gt;Plataforma cooperativa&lt;/h3&gt;
+
+    &lt;p&gt;En las aplicaciones  &lt;b class="morel-word"&gt;MOREL&lt;/b&gt;, los usuarios podrán registrarse para agregar nuevos materiales descargables, y crear fichas de autores, obras, editoriales, ciudades y repositorios. Es decir, funciona del modo que genéricamente se suele llamar “colaborativo”, aunque muchas veces es impreciso o tramposo este término &lt;label for="o" class="morel" &gt;(en esta infografía está explicada de manera sencilla la diferencia entre economía colaborativa y cooperativismo de plataforma)&lt;/label&gt;.&lt;/p&gt;
+      &lt;div style="text-align: center;padding:1rem 0px 0rem 0px;"&gt;
+      &lt;img src="/img/interfaz-editor.png" style="height: auto;width: 100%;max-width: 100%;" class="responsive" alt=""&gt;
+    &lt;/div&gt;
+    &lt;p&gt; &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; asume específicamente la metodología de las cooperativas de plataforma, donde el produsuario no es sencillamente un consumidor que crea contenidos, sino que tiene la posibilidad de asociarse activamente al proyecto. Si quieres participar como agregador(a), &lt;label class="morel" for="suscribir"&gt;suscríbete&lt;/label&gt; para enterarte de las convocatorias.&lt;/p&gt;
+
+    &lt;h3 id="5"&gt;Lanzamiento&lt;/h3&gt;
+
+    &lt;p&gt;Todo el trabajo realizado hasta ahora (diseño web, diseño de identidad, configuración del CMS, redacción y curación de contenidos y promoción) ha sido realizado en las horas que les quedan a los socios-trabajadores de los trabajos intelectuales y creativos (precarizados) que realizan para el mercado informal. &lt;/p&gt;
+    &lt;p&gt;En la medida que funcionen en el corto plazo los mecanismos de generación de recursos, y los socios-trabajadores puedan abocarse al desarrollo de &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt;, el sitio estará disponible con toda seguridad el 24 de junio de 2019. Sin embargo, esta fecha está sujeta al éxito de los mecanismos para generación de recursos. Puedes apoyarnos con tus &lt;a class="morel" href="index.html"&gt;compras&lt;/a&gt; en la tienda y tus &lt;a class="morel" href="donacion.html"&gt;donaciones&lt;/a&gt;. También puedes&lt;label for="suscribir" class="morel"&gt;suscribirte&lt;/label&gt; para mantenerte al día con la fecha de lanzamiento y los avances en el desarrollo.&lt;/p&gt;
+
+    &lt;h3 id="6"&gt;¿Dónde están las otras obras, autores, ciudades, etcétera?&lt;/h3&gt;
+    
+    &lt;p&gt;Lo que estás navegando ahora es un &lt;a class="morel" href="prototipo.html" target="_blank"&gt;prototipo estático&lt;/a&gt; de lo que será la aplicación literaturavenezolana.info. Para este demo, los contenidos fueron agregados manualmente en código a la interfaz de usuario que se desarrolló en html, css y java script.&lt;/p&gt;
+
+   
+    &lt;p&gt;Las restantes fichas de obra, autor, ciudades, editoriales y repositorios están en la base de datos del &lt;a href="https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos" target="_blank"&gt;manejador de contenidos&lt;/a&gt;, que está basado en php. Digamos que paralelamente a este prototipo estático, existe una versión dinámica de literaturavenezolana.info donde los contenidos pueden ser incorporados mediante formularios, sin necesidad de usar código, y los listados se generan automáticamente. Pero esta versión dinámica aún no cuenta con la interfaz de usuario.&lt;/p&gt;
+      &lt;div style="text-align: center;padding:1rem 0px 0rem 0px;"&gt;
+      &lt;img src="/img/base-datos.png" style="height: auto;width: 100%;max-width: 100%;" class="responsive" alt=""&gt;
+    &lt;/div&gt;
+    &lt;p&gt;Nuestro primer objetivo con los recursos generados por compras en la tienda y donaciones es financiar la instalación de esta interfaz de usuario en el manejador de contenidos. Una vez dado este paso, literaturavenezolana.info estará lista para su uso, con todas sus funcionalidades disponibles, con el aspecto amable y accesible que estás usando ahora.&lt;/p&gt;
+    
+
+    &lt;h3 id="7"&gt;Próximos proyectos&lt;/h3&gt;
+    &lt;p&gt;&lt;b class="morel-word"&gt;MOREL&lt;/b&gt; se proyecta en dos horizontes simultáneamente.&lt;/p&gt;
+    &lt;p&gt;Por un lado, &lt;b class="site-word"&gt;literaturavenezolana.info&lt;/b&gt; es la primera de múltiples aplicaciones &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; posibles para organizar y poner a disposición la cultura latinoamericana de dominio público. &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; espera desarrollar o contribuir al desarrollo de muchas aplicaciones integradas que puedan servir a este propósito, e identifica como posibilidades cercanas un repositorio con la tradición escrita argentina, y un repositorio de muralismo y &lt;em&gt;street art&lt;/em&gt; latinoamericano.&lt;/p&gt;
+    &lt;p&gt;Por otra parte, simultáneamente al desarrollo de las aplicaciones web, &lt;b class="morel-word"&gt;MOREL&lt;/b&gt; trabaja en sus primeros proyectos editoriales, que se comercializarán en formato de libro electrónico e impresión bajo demanda. &lt;label for="suscribir" class="morel"&gt;Suscríbete&lt;/label&gt; para mantenerte al día sobre los nuevos lanzamientos&lt;/p&gt;
+    
+  &lt;/div&gt;
+</code></pre></div></div>
+:ET
