@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Natalicios
 ---
 {% for author in site.authors %}
 {% assign nacimiento = author.date-born | date: "%d %m" %}

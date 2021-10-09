@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"nacion",
+				"nacionalidad_desconocida"
+			],
+			[
 				"morel",
 				"morelcoop"
 			]
@@ -11,14 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "access_token",
-			"settings":
-			{
-				"buffer_size": 41,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -76,9 +72,107 @@
 	},
 	"expanded_folders":
 	[
+		"/home/febres/Dev/morel_deploy"
 	],
 	"file_history":
 	[
+		"/home/febres/Dev/AALT/_posts/2021-10-08-post.md",
+		"/home/febres/Dev/AALT/_includes/nav-bar.html",
+		"/home/febres/Dev/AALT/css/styles.scss",
+		"/home/febres/Dev/AALT/_sass/main.scss",
+		"/home/febres/Dev/AALT/_layouts/default.html",
+		"/home/febres/Dev/AALT/_includes/nav-bar-2.html",
+		"/home/febres/Dev/AALT/_data/navigation.yml",
+		"/home/febres/Dev/AALT/_layouts/book.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora.html",
+		"/home/febres/Dev/AALT/_authors/debug.md",
+		"/home/febres/Dev/AALT/_includes/author_list.html",
+		"/home/febres/Dev/AALT/debug.html",
+		"/home/febres/Dev/AALT/_books/debug.md",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora-debug.html",
+		"/home/febres/Dev/AALT/_layouts/author_debug.html",
+		"/home/febres/Dev/AALT/_layouts/author-debug.html",
+		"/home/febres/Dev/AALT/_layouts/debug.html",
+		"/home/febres/Dev/AALT/_books/antologia-manuscritos.md",
+		"/home/febres/Dev/AALT/_books/debug-2.md",
+		"/home/febres/Dev/AALT/_posts/2017-01-02-my-first-post.md",
+		"/home/febres/Dev/AALT/_posts/2017-01-15-my-second-post.md",
+		"/home/febres/Dev/AALT/_posts/2017-02-08-my-third-post.md",
+		"/home/febres/Dev/AALT/_posts/2021-09-20-post.md",
+		"/home/febres/Dev/AALT/_posts/2021-09-22-post.md",
+		"/home/febres/Dev/AALT/_publishers/universidad-de-la-republica.md",
+		"/home/febres/Dev/AALT/_authors/candelario-obeso.md",
+		"/home/febres/Dev/AALT/_authors/juan-francisco-manzano.md",
+		"/home/febres/Dev/AALT/_repositories/european-libraries.md",
+		"/home/febres/Dev/AALT/_repositories/disciplinas-da-usp.md",
+		"/home/febres/Dev/AALT/_repositories/conocimiento-libre-repositorio-institucional.md",
+		"/home/febres/Dev/AALT/_repositories/community-texts.md",
+		"/home/febres/Dev/AALT/_repositories/centro-afrocolombiano-espiritualidad.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-virtual-banco-republica.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-virtual-agustinos.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-patrimonio-iberoamericano.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-nacional-de-colombia.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-digital-bogota.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-cervantes.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-basica-colombiana.md",
+		"/home/febres/Dev/AALT/_repositories/american-libraries.md",
+		"/home/febres/Dev/AALT/_cities/debug.md",
+		"/home/febres/Dev/AALT/_cities/santo-domingo.md",
+		"/home/febres/Dev/AALT/_cities/bogota.md",
+		"/home/febres/Dev/AALT/_cities/alicante.md",
+		"/home/febres/Dev/AALT/_cities/cali.md",
+		"/home/febres/Dev/AALT/_cities/la-habana.md",
+		"/home/febres/Dev/AALT/_cities/mexico.md",
+		"/home/febres/Dev/AALT/_cities/montevideo.md",
+		"/home/febres/Dev/AALT/_cities/quito.md",
+		"/home/febres/Dev/AALT/_books/vivan-los-compañeros-carlos-arturo-truque.md",
+		"/home/febres/Dev/AALT/_books/tierra-mojada-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/tambores-noche-jorge-artel.md",
+		"/home/febres/Dev/AALT/_books/tambores-noche-jorge-artel-2.md",
+		"/home/febres/Dev/AALT/_books/senderos-ancestros-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/poesias-completas-placido.md",
+		"/home/febres/Dev/AALT/_books/poesía-escogida-romulo-bustos-aguirre-2.md",
+		"/home/febres/Dev/AALT/_books/poesía-escogida-romulo-bustos-aguirre.md",
+		"/home/febres/Dev/AALT/_books/no-give-up-man-2.md",
+		"/home/febres/Dev/AALT/_books/no-give-up-man.md",
+		"/home/febres/Dev/AALT/_books/negro-en-iberoamerica-nicomedes-santa-cruz-2.md",
+		"/home/febres/Dev/AALT/_books/negro-en-iberoamerica-nicomedes-santa-cruz.md",
+		"/home/febres/Dev/AALT/_books/matalaché-enrique-lopez-albujar-2.md",
+		"/home/febres/Dev/AALT/_books/matalaché-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/las-estrellas-son-negras-arnoldo-palacios-2.md",
+		"/home/febres/Dev/AALT/_books/las-estrellas-son-negras-arnoldo-palacios.md",
+		"/home/febres/Dev/AALT/_books/fabulas-tamalameque-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/fabulas-tamalameque-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/detras-del-rostro-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/detras-del-rostro-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/chango-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/chango-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/calle-diez-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/amujeres-poetas-afrocolombianas.md",
+		"/home/febres/Dev/AALT/_books/apoetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/antologia-poetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/cantos-populares-candelario-obeso-2.md",
+		"/home/febres/Dev/AALT/_books/aoetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/autobiografia-esclavo-juan-francisco-manzano.md",
+		"/home/febres/Dev/AALT/_site/index.html",
+		"/home/febres/Dev/AALT/_includes/lista-recomendadas.html",
+		"/home/febres/Dev/AALT/_layouts/index.html",
+		"/home/febres/Dev/AALT/_books/antologia-mujeres-poetas-afrocolombianas.md",
+		"/home/febres/Dev/AALT/_books/cuentos-andinos-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/memoria-y-resistencia-cristina-rodriguez.md",
+		"/home/febres/Dev/AALT/_books/cantos-populares-candelario-obeso.md",
+		"/home/febres/Dev/AALT/_books/cien-carceles-amor.md",
+		"/home/febres/Dev/AALT/_books/espejo-ventana-adalberto-ortiz.md",
+		"/home/febres/Dev/AALT/_books/familia-unzuaza-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/impresiones-literarias-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/nochebuena-negra-juan-pablo-sojo.md",
+		"/home/febres/Dev/AALT/_books/nuevos-cuentos-andinos-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/obra-poetica-pedro-blas.md",
+		"/home/febres/Dev/AALT/_books/obra-poetica-romulo-bustos-aguirre.md",
+		"/home/febres/Dev/AALT/_books/peesias-completas-placido.md",
+		"/home/febres/Dev/AALT/_books/pregon-marimorena-virginia-brindis.md",
+		"/home/febres/Dev/AALT/_books/sofia-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/um-defeito-de-cor-ana-maria-goncalves.md",
 		"/home/febres/Dev/morel_from_scractch/_layouts/publisher.html",
 		"/home/febres/Dev/morel_from_scractch/_posts/2021-10-04-post.md",
 		"/home/febres/Dev/morel_from_scractch/_books/aborigenes-costa-rica.md",
@@ -109,104 +203,7 @@
 		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-30-post.md",
 		"/home/febres/Dev/morel_from_scractch/_layouts/book_model.html",
 		"/home/febres/Dev/morel_from_scractch/_books/alcides-arguedas-vida-criolla.md",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-23-post.md",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-27-post.md",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-22-post.md",
-		"/home/febres/Dev/morel_from_scractch/_layouts/list.html",
-		"/home/febres/Dev/morel_from_scractch/_books/humboldt-viaje-regiones-2.md",
-		"/home/febres/Dev/morel_from_scractch/access_token",
-		"/home/febres/Dev/morel_from_scractch/_includes/author_model.html",
-		"/home/febres/Dev/morel_theme/obras/viaje-regiones-2.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/default.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/index.html",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-21-post.md",
-		"/home/febres/Dev/morel_from_scractch/_layouts/author_model.html",
-		"/home/febres/Dev/morel_from_scractch/_includes/lista-recomendadas.html",
-		"/home/febres/Dev/morel_from_scractch/_authors/andres-bello.md",
-		"/home/febres/Dev/morel/index.html",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-18-post.md",
-		"/home/febres/Dev/morel_from_scractch/index.html",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-17-post.md",
-		"/home/febres/Dev/morel_from_scractch/_books/juana-manso-historia-provincias.md",
-		"/home/febres/Dev/morel_from_scractch/_includes/promotion.html",
-		"/home/febres/Dev/morel_from_scractch/_books/arte-revolucion-cesar-vallejo.md",
-		"/home/febres/Dev/morel_from_scractch/_books/fermin-toro-martires.md",
-		"/home/febres/Dev/morel_from_scractch/_books/comentarios-reales-dos-inca-garcilaso.md",
-		"/home/febres/Dev/morel_from_scractch/_books/teatro-completo-herrera.md",
-		"/home/febres/Dev/morel_from_scractch/_books/gorriti-oasis.md",
-		"/home/febres/Dev/morel_from_scractch/_books/leyendas-carlos-martinez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/leyendas-mayas-manuel-rejon-garcia.md",
-		"/home/febres/Dev/morel_from_scractch/_books/poesias-manuel-zequeira-arango.md",
-		"/home/febres/Dev/morel_from_scractch/_books/vibraciones-ignacio-valdes.md",
-		"/home/febres/Dev/morel_from_scractch/_books/historia-conquista-pob-1.md",
-		"/home/febres/Dev/morel_from_scractch/_books/guirnalda-salvadorena.md",
-		"/home/febres/Dev/morel_from_scractch/_books/heroes-emancipacion-montalvo.md",
-		"/home/febres/Dev/morel_from_scractch/_books/carlos-gagini.md",
-		"/home/febres/Dev/morel_from_scractch/_books/canto-argentina-ruben-dario.md",
-		"/home/febres/Dev/morel_from_scractch/_books/holandesa-america-soledad-acosta-samper.md",
-		"/home/febres/Dev/morel_from_scractch/_books/conspirador-mercedes-cabello.md",
-		"/home/febres/Dev/morel_from_scractch/_books/graciela-sotomayor-margarita.md",
-		"/home/febres/Dev/morel_from_scractch/_books/almas-grandes-abraham-ramirez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/tierra-purpurea-guillermo-enrique.md",
-		"/home/febres/Dev/morel_from_scractch/_books/pedro-arismendi-versos.md",
-		"/home/febres/Dev/morel_from_scractch/_books/propia-mano-antonio-sucre.md",
-		"/home/febres/Dev/morel_from_scractch/_books/ensayos-mariategui.md",
-		"/home/febres/Dev/morel_from_scractch/_books/autobiografía-ruben-dario.md",
-		"/home/febres/Dev/morel_from_scractch/_books/ruben-dario-los-raros.md",
-		"/home/febres/Dev/morel_from_scractch/_books/manojo-guarias-chavarria.md",
-		"/home/febres/Dev/morel_from_scractch/_books/obras-dos-rafael-delgado.md",
-		"/home/febres/Dev/morel_from_scractch/_books/javier-viana-ranchos.md",
-		"/home/febres/Dev/morel_from_scractch/_books/canto-samuel-lillo.md",
-		"/home/febres/Dev/morel_from_scractch/_books/gibaro-manuel-alonso.md",
-		"/home/febres/Dev/morel_from_scractch/_books/payador-leopoldo-lugones.md",
-		"/home/febres/Dev/morel_from_scractch/_books/cantos-tarde.md",
-		"/home/febres/Dev/morel_from_scractch/_books/eduarda-mansilla-cuentos.md",
-		"/home/febres/Dev/morel_from_scractch/_books/baltasar-gertrudis-gomez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/sumario-natural-oviedo.md",
-		"/home/febres/Dev/morel_from_scractch/_books/poemas-alfonsina-storni.md",
-		"/home/febres/Dev/morel_from_scractch/_books/juguete-rabioso-arlt.md",
-		"/home/febres/Dev/morel_from_scractch/_books/siete-cuerdas-masferrer.md",
-		"/home/febres/Dev/morel_from_scractch/_books/charca-manuel-zeno-gandia.md",
-		"/home/febres/Dev/morel_from_scractch/_books/mexico-antiguo-fray-bernardino.md",
-		"/home/febres/Dev/morel_from_scractch/_books/raza-bronce-alcides-arguedas.md",
-		"/home/febres/Dev/morel_from_scractch/_books/fortuna-cruz-marcelina-almeida.md",
-		"/home/febres/Dev/morel_from_scractch/_books/manuel-gutierrez-poesias.md",
-		"/home/febres/Dev/morel_from_scractch/_books/torre-timon-ramos-sucre.md",
-		"/home/febres/Dev/morel_from_scractch/_books/boreales-clorinda-matto.md",
-		"/home/febres/Dev/morel_from_scractch/_books/destruccion-indias-bartolome-casas.md",
-		"/home/febres/Dev/morel_from_scractch/_books/derrumbe-garcia-godoy.md",
-		"/home/febres/Dev/morel_from_scractch/_books/bolivar-contra-bolivar-simon-rodriguez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/gruta-silencio-vicente-huidobro.md",
-		"/home/febres/Dev/morel_from_scractch/_books/alma-idilio.md",
-		"/home/febres/Dev/morel_from_scractch/_books/soto-hall-problema.md",
-		"/home/febres/Dev/morel_from_scractch/_books/viajes-cristobal-colon.md",
-		"/home/febres/Dev/morel_from_scractch/_books/piratas-cartagena-soledad.md",
-		"/home/febres/Dev/morel_from_scractch/_books/heroe-martir-salvador.md",
-		"/home/febres/Dev/morel_from_scractch/_books/vicuña-cifuentes.md",
-		"/home/febres/Dev/morel_from_scractch/_books/horno-jose-cuadra.md",
-		"/home/febres/Dev/morel_from_scractch/_books/itinerario-poesia-miro.md",
-		"/home/febres/Dev/morel_from_scractch/_books/prosas-profanas-ruben-dario.md",
-		"/home/febres/Dev/morel_from_scractch/_books/obra-literaria-ricardo-miro.md",
-		"/home/febres/Dev/morel_from_scractch/_books/ariel-proteo-rodo.md",
-		"/home/febres/Dev/morel_from_scractch/_books/leyendas-indios-quichua.md",
-		"/home/febres/Dev/morel_from_scractch/_books/gertrudis-gomez-saul.md",
-		"/home/febres/Dev/morel_from_scractch/_books/teatro-eclesiastico-gil-gonzalez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/memorias-teresa-de-la-Parra.md",
-		"/home/febres/Dev/morel_from_scractch/_books/surtidores-josefina-penate.md",
-		"/home/febres/Dev/morel_from_scractch/_books/nobleza-alma-maria-guadalupe-cartagena.md",
-		"/home/febres/Dev/morel_from_scractch/_books/martin-fierro-jose-hernandez.md",
-		"/home/febres/Dev/morel_from_scractch/_books/cuentos-color-humo-manuel-gutierrez-najera.md",
-		"/home/febres/Dev/morel_from_scractch/_books/verdad-sospechosa.md",
-		"/home/febres/Dev/morel_from_scractch/_books/sonetos-sonetillos-trajano-mera.md",
-		"/home/febres/Dev/morel_from_scractch/_books/ifigenia-teresa-parra.md",
-		"/home/febres/Dev/morel_from_scractch/_books/salome-vargas-vila.md",
-		"/home/febres/Dev/morel_from_scractch/_books/poesias-rodulfo-figueroa.md",
-		"/home/febres/Dev/morel_from_scractch/_books/poesias-gabriel-concepcion.md",
-		"/home/febres/Dev/morel_from_scractch/_books/ojo-manuel-angel.md",
-		"/home/febres/Dev/morel_from_scractch/_books/libro-fiel-leopoldo-lugones.md",
-		"/home/febres/Dev/morel_from_scractch/_books/juana-sanchez-tomas-oconnor.md",
-		"/home/febres/Dev/morel_from_scractch/_books/corazon-mujer-soledad-acosta-samper.md",
-		"/home/febres/Dev/morel_from_scractch/_books/infortunios-carlos-singueza.md"
+		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-23-post.md"
 	],
 	"find":
 	{
@@ -214,9 +211,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 98.0,
+		"height": 403.0,
 		"where_history":
 		[
+			"<open folders>",
+			"<current file>,<open folders>",
 			"<current file>,/home/febres/Dev/morel_from_scractch/_books,/home/febres/Dev/morel_from_scractch/_posts,/home/febres/Dev/morel_from_scractch/_books",
 			"<current file>,/home/febres/Dev/morel_from_scractch/_books,/home/febres/Dev/morel_from_scractch/_posts",
 			"<current file>,/home/febres/Dev/morel_from_scractch/_books",
@@ -237,6 +236,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"feature: true",
+			"{% include JB/setup %}",
+			"{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}",
 			".index",
 			"index",
 			"incl",
@@ -327,53 +329,11 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "/home/febres/Dev/morel_from_scractch"
-		},
-		{
-			"path": "/home/febres/Dev/morel_theme"
-		},
-		{
-			"path": "/home/febres/Dev/morel"
-		}
-	],
 	"groups":
 	[
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "access_token",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 41,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								41
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -413,7 +373,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "",
+	"project": "theming.sublime-workspace",
 	"replace":
 	{
 		"height": 52.0
@@ -454,7 +414,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 390.0,
+	"side_bar_width": 665.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
